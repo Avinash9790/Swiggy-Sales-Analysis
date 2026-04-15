@@ -1,9 +1,11 @@
 🍊 Swiggy Sales Analysis
 
 📌 Overview
+
 This project analyzes Swiggy food delivery data across India to uncover sales trends, top-performing restaurants, popular dishes, and location-based revenue patterns. The analysis is performed using Python for data cleaning & EDA, SQL for business insights, and Power BI for interactive dashboards.
 
 ❓ Business Problem
+
 Swiggy operates across hundreds of cities in India with thousands of restaurant partners. This project aims to answer:
 
 Which restaurants and dishes generate the most revenue?
