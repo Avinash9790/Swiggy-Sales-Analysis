@@ -133,3 +133,15 @@ Python (Pandas, Matplotlib, Seaborn) — Data Cleaning & EDA
 MySQL — SQL Analysis
 
 Power BI — Interactive Dashboard
+
+## 📁 Files
+- `Swiggy Sales Analysis.pbix` - All 3 dashboards
+- `Dashboard 1.png`, `Dashboard 2.png`, `Dashboard 3.png` - Screenshots
+- `Swiggy Sales Analysis.SQL` - SQL Queries
+- `Swiggy_Sales_Analysis (2).ipynb` - EDA
+
+📸 Dashboard Preview
+
+![Dashboard 1](<Dashboard 1.png>)
+![Dashboard 2](<Dashboard 2.png>)
+![Dashboard 3](<Dashboard 3.png>)
