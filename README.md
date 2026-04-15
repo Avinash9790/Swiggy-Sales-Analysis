@@ -14,8 +14,8 @@ What food categories drive the most sales?
 
 How can Swiggy optimize its restaurant partnerships and city-level strategies?
 
-📂 Dataset
-Column	Description
+📂 Dataset (Columns: Description)
+
 State: State where the order was placed
 
 City:	City where the order was placed
@@ -41,25 +41,27 @@ Total Records: 1,97,430 rows
 Time Period: 2025
 
 📊 EDA Insights
-The dataset contains 1,97,430 orders across multiple states and cities in India
 
-KFC is the highest revenue-generating restaurant with ₹42.5L in total sales, contributing a significant share of platform revenue
+1. The dataset contains 1,97,430 orders across multiple states and cities in India
 
-Bengaluru is the most active city with 20,077 orders, nearly double the next city Mumbai at 10,507
+2. KFC is the highest revenue-generating restaurant with ₹42.5L in total sales, contributing a significant share of platform revenue
 
-Karnataka leads state-level revenue at ₹54.6L, followed by Uttar Pradesh (₹31.2L) and Telangana (₹30.2L)
+3. Bengaluru is the most active city with 20,077 orders, nearly double the next city Mumbai at 10,507
 
-The Recommended food category generates the highest revenue at ₹71.9L — significantly higher than all other categories
+4. Karnataka leads state-level revenue at ₹54.6L, followed by Uttar Pradesh (₹31.2L) and Telangana (₹30.2L)
 
-Choco Lava Cake is the single most ordered dish with 303 orders, followed by Veg Fried Rice (269) and Paneer Butter Masala (237)
+5. The Recommended food category generates the highest revenue at ₹71.9L — significantly higher than all other categories
 
-The overall average rating across the platform is 4.34 out of 5, indicating strong customer satisfaction
+6. Choco Lava Cake is the single most ordered dish with 303 orders, followed by Veg Fried Rice (269) and Paneer Butter Masala (237)
 
-The average order value is ₹268.51, suggesting a mid-range spending pattern per order
+7. The overall average rating across the platform is 4.34 out of 5, indicating strong customer satisfaction
 
-January 2025 recorded the highest monthly revenue at ₹68.3L while February 2025 was the lowest at ₹62.7L
+8. The average order value is ₹268.51, suggesting a mid-range spending pattern per order
+
+9. January 2025 recorded the highest monthly revenue at ₹68.3L while February 2025 was the lowest at ₹62.7L
 
 🛢️ SQL Insights
+
 1. Top 10 Restaurants by Total Revenue:
 
 KFC leads with ₹42.5L, followed by McDonald's (₹33.4L), Pizza Hut (₹21.3L), Burger King (₹19L), and Domino's Pizza (₹18.3L) — top 5 are all global QSR chains
